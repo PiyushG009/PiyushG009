@@ -1,7 +1,7 @@
 <p align="center">
   <img src="banner.png" />
 </p>
-# <h1 align="center">Hi 👋, I'm Piyush Gupta</h1>
+<h1 align="center">Hi 👋, I'm Piyush Gupta</h1>
 
 <h3 align="center">🚀 Python Developer | AI Enthusiast | B.Tech CSE</h3>
 
