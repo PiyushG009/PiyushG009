@@ -40,7 +40,7 @@
 ## 🌐 Connect with Me
 
 - 📧 Email: varungupta31009@gmail.com 
-- 💼 LinkedIn: (add later)
+- 💼 LinkedIn: [(add later)](https://www.linkedin.com/in/piyushg009/)
 
 ---
 
